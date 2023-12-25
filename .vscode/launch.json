@@ -1,0 +1,75 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ColorPallete",
+            "request": "launch",
+            "mainClass": "ColorPallete"
+        },
+        {
+            "type": "java",
+            "name": "ListBox",
+            "request": "launch",
+            "mainClass": "ListBox"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Client"
+        },
+        {
+            "type": "java",
+            "name": "TextAreaOperation",
+            "request": "launch",
+            "mainClass": "TextAreaOperation"
+        },
+        {
+            "type": "java",
+            "name": "TextFieldListenerDemo",
+            "request": "launch",
+            "mainClass": "TextFieldListenerDemo"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxDemo",
+            "request": "launch",
+            "mainClass": "CheckBoxDemo"
+        },
+        {
+            "type": "java",
+            "name": "ButtonDemo",
+            "request": "launch",
+            "mainClass": "ButtonDemo"
+        },
+        {
+            "type": "java",
+            "name": "FirstApp",
+            "request": "launch",
+            "mainClass": "FirstApp"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseTrackerApplication",
+            "request": "launch",
+            "mainClass": "com.anmol.ExpenseTracker.ExpenseTrackerApplication",
+            "projectName": "ExpenseTracker"
+        }
+    ]
+}
